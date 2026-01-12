@@ -1,6 +1,6 @@
 ## Hi, I’m Muna 👋
 
-I’m an MSc SBBS student interested in human genetics, rare disease and machine learning for genomics. Long term, I’d like to work as a bioinformatician in the pharmaceutical / biotech industry, building tools that help with target discovery, biomarker development and patient stratification.
+I’m an MSc Bioinformatics student interested in human genetics, rare disease and machine learning for genomics. Long term, I’d like to work as a bioinformatician in the pharmaceutical / biotech industry, building tools that help with target discovery, biomarker development and patient stratification.
 
 ### What I’m into
 
