@@ -1,29 +1,24 @@
-## Hi, I’m Muna 👋
+# Hi, I'm Muna
 
-I’m an MSc Bioinformatics student interested in human genetics, rare disease and machine learning for genomics. Long term, I’d like to work as a bioinformatician in the pharmaceutical / biotech industry, building tools that help with target discovery, biomarker development and patient stratification.
+I'm an MSc Bioinformatics student at Queen Mary University of London. My thesis involves building a full multi-omics pipeline for rare disease genomics, covering everything from raw sequencing data through to differential expression, methylation analysis, and pathway enrichment.
 
-### What I’m into
+I'm most interested in the engineering side of bioinformatics — building pipelines that are reproducible, well-documented, and actually run on real HPC infrastructure.
 
-- Human genetics and rare disease
-- Single-cell and bulk RNA-seq analysis
-- Variant interpretation and clinical genomics
-- Applying machine learning / NLP to biological data
+## What I work with
 
-### What I work with
+**Languages:** Python, R, bash  
+**Pipeline tools:** Snakemake, SLURM, conda, Singularity  
+**Sequencing:** bulk RNA-seq, bisulfite sequencing, paired-end Illumina  
+**R / Bioconductor:** DESeq2, DMRcaller, clusterProfiler, GenomicRanges, BSseq  
+**Python:** pandas, scikit-learn, matplotlib, scanpy  
+**Other:** Git, GitHub Actions CI, HPC (Apocrita/QMUL)
 
-- **Languages / tools:** Python, R, Git, Linux
-- **Python:** pandas, scikit-learn, Scanpy, matplotlib
-- **R / Bioconductor:** DESeq2, clusterProfiler
-- **Domains:** scRNA-seq, RNA-seq, variant analysis, phenotype–disease matching
+## What I'm working on
 
-### At a glance
+Currently building a multi-omics pipeline on an HPC cluster — STAR and Bismark alignment on hg38, differential expression with DESeq2, differential methylation with DMRcaller, and GO/KEGG enrichment with clusterProfiler. Everything managed with Snakemake and validated with GitHub Actions CI.
 
-On GitHub I tend to build small, reproducible analysis pipelines around:
+Outside of the thesis I've built smaller projects around single-cell label transfer, variant pathogenicity classification, and phenotype-disease matching.
 
-- single-cell RNA-seq (cell type classification / label transfer),
-- bulk RNA-seq differential expression and pathway analysis,
-- phenotype–disease matching and LLM-style reasoning over clinical text,
-- variant-level modelling and pathogenicity prediction.
+## Interests
 
-As my MSc project grows, I’ll keep using this space to collect the kinds of workflows and experiments I enjoy working on most, especially those that sit at the intersection of bioinformatics, statistics and translational genomics in pharma.
-
+Rare disease genomics, epigenomics, pipeline infrastructure, and translational applications in pharma. Long term I want to work on the engineering and infrastructure side — building tools that make large-scale genomic analysis reproducible and scalable.
