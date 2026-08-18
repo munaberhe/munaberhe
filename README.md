@@ -15,7 +15,7 @@ I'm most interested in the engineering side of bioinformatics — building pipel
 
 ## What I'm working on
 
-Currently building a multi-omics pipeline on an HPC cluster — STAR and Bismark alignment on hg38, differential expression with DESeq2, differential methylation with DMRcaller, and GO/KEGG enrichment with clusterProfiler. Everything managed with Snakemake and validated with GitHub Actions CI.
+Currently building a WGBS methylation pipeline on an HPC cluster — Bismark alignment on hg38, differential methylation calling with DMRcaller across a four-contrast pairwise design, GO/KEGG enrichment with clusterProfiler, and permutation-based enhancer and regional enrichment testing with regioneR. Managed with Slurm array jobs.
 
 Outside of the thesis I've built smaller projects around single-cell label transfer, variant pathogenicity classification, and phenotype-disease matching.
 
